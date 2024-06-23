@@ -32,7 +32,7 @@ body {
 }
 
 #check-btn:hover {
-    background-color: #FF3B2D;
+    background-color: #ff3b2d;
 }
 
 #result {
@@ -54,7 +54,10 @@ body {
 }
 
 @media (max-width: 600px) {
-    #text-input, #check-btn, #result, #definition {
-        width: 90%;
-    }
+    #text-input,
+    #check-btn,
+    #result,
+    #definition {
+    width: 90%;
+  }
 }
