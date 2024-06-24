@@ -10,7 +10,7 @@ document.getElementById('check-btn').addEventListener('click', () => {
   
   const cleanedInput = inputValue.toLowerCase().replace(/[^a-z0-9]/gi, '');
   const reversedInput = cleanedInput.split('').reverse().join('');
- 
+
   if (cleanedInput === reversedInput) {
     resultElement.textContent = `${inputValue} is a palindrome`;
   } else {
