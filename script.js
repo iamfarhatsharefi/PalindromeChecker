@@ -4,7 +4,7 @@ document.getElementById('check-btn').addEventListener('click', () => {
   const inputValue = inputElement.value.trim();
 
   if (inputValue === '') {
-    resultElement.textContent = "Please input a value";
+    resultElement.textContent = 'Please input a value';
     return;
   }
 
