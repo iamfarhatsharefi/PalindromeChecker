@@ -9,7 +9,7 @@ palindrome checker
 
 ## Demo 📸
 [Live Demo](https://iamfarhatsharefi.github.io/PalindromeChecker/ )
-![Screenshot]()
+![Screenshot](./Picture1.png)
 
 ## Technologies Used 🛠️
 
