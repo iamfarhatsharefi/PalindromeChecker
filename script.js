@@ -1,9 +1,10 @@
-document.getElementById('check-btn').addEventListener('click', () => {const inputElement = document.getElementById('text-input');
+document.getElementById('check-btn').addEventListener('click', () => {
+  const inputElement = document.getElementById('text-input');
   const resultElement = document.getElementById('result');
   const inputValue = inputElement.value.trim();
 
   if (inputValue === "") {
-    resultElement.textContent = "Please input a value";
+    resultElement.textContent = 'Please input a value';
     return;
   }
     
