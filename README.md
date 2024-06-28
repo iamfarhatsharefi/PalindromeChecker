@@ -8,7 +8,7 @@ palindrome checker
 "Farhat Sharefi's portfolio showcases a collection of projects, including a personal portfolio website and a technical documentation page. With a focus on simplicity and elegance, it provides a glimpse into Farhat's skills in web development and design."
 
 ## Demo 📸
-[Live Demo](https://iamfarhatsharefi.github.io/PalindromeChecker/ )
+[Live Demo]( https://iamfarhatsharefi.github.io/PalindromeChecker/)
 ![Screenshot](./Picture1.png)
 
 ## Technologies Used 🛠️
